@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "Big Mac",
+        "restaurant": "McDonald's",
+        "web": "www.mcdonalds.com",
+        "description": "Two double patties on a sesame seed bun",
+        "ingredients": ["beef", "american cheese", "burger sauce", "pickles", "lettuce", "sesame seed bun"],
+        "addresses": [
+            {
+                "addressId": "0",
+                "number": "4", 
+                "line 1": "Magic Road",
+                "line 2": "Lane 4",
+                "postcode":"22444",
+                "country": "United States"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Whopper",
+        "restaurant": "Burger King",
+        "web": "www.burgerking.com",
+        "description": "Grilled burger",
+        "ingredients": ["beef", "lettuce", "tomato", "onion", "mayo", "sesame seed bun"],
+        "addresses": [
+            {
+                "addressId":"0",
+                "number": "25",
+                "line 1": "Broom Stick",
+                "line 2": "Alley 5",
+                "postcode": "22777",
+                "country": "United States"
+            }
+        ]
+    }
+]
